@@ -97,7 +97,7 @@ int main() {
     // Inicializa a string a ser acertada, além do alfabeto
     tamanho = gabarito.length();
     string palavra(tamanho, '_');
-    string alfabeto(25, '_');
+    string alfabeto(TAM_ALF, '_');
     restantes = tamanho;
 
     // Trata as ocasiões de palavras com hífen "-"
