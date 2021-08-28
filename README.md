@@ -1,8 +1,9 @@
+<h1 align="center">O Jogo da Forca</h1>
 <p align="center">
-<a href="https://pt.wikipedia.org/wiki/Jogo_da_forca"><img src="https://brstatic.guiainfantil.com/pictures/materias/21125-forca-jogo-de-palavras-para-as-criancas.jpg" alt="Jogo da Forca"></a>
+<a href="https://pt.wikipedia.org/wiki/Jogo_da_forca"><img src="https://images-na.ssl-images-amazon.com/images/I/517cKCRsu8L.png" alt="Jogo da Forca"></a>
 </p>
 
-# Jogo da Forca
+# Informações
 <strong>Jogo:</strong> A Forca é um tradicional jogo que envolve raciocínio lógico e uma pequena dose de sorte... bem, ao menos de vez em quando.
 
 # Objetivo
